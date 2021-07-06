@@ -1,0 +1,9 @@
+BUDGET TRACKER SYSTEM IN PYTHON
+
+This project visualises how your money is spent in various things like food , entertainment , travelling etc and gives a detail chart for the same.
+
+LOGIN DETAILS
+
+Username - admin
+Password - admin
+
